@@ -6,7 +6,7 @@ class Main{
     }
 
     public int numStudents(){
-        System.out.print(10);
+        System.out.print(12);
     }
 
 
